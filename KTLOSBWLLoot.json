@@ -608,7 +608,7 @@
 			"wowID":"19356"
 		},
 		"Mishundare Circlet of the Mind Flayer":{
-			"prio":["Rasbeary(1)","Blacklisted(1)","EP/GP"],
+			"prio":["Rasbeary(1)","Blacklisted(1)","Doligrian","EP/GP"],
 			"gp":"",
 			"wowID":"19375"
 		},
@@ -638,7 +638,7 @@
 			"wowID":"19376"
 		},
 		"Pure Elementium Band":{
-			"prio":["(Rasbeary(1)","Doligrian(1)","EP/GP"],
+			"prio":["Doligrian(1)","Rasbeary(1)","EP/GP"],
 			"gp":"",
 			"wowID":"19382"
 		},
