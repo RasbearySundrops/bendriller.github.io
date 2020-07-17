@@ -1,12 +1,12 @@
 {
 	"Trash":{
 		"Girdle of Prophecy":{
-			"prio":["Nattys(2)","EP/GP"],
+			"prio":["Nattys(3)","EP/GP"],
 			"gp":"",
 			"wowID":""
 		},
 		"Vambraces of Prophecy":{
-			"prio":["Nattys(2)","Jowsus(1)","EP/GP"],
+			"prio":["Nattys(3)","Jowsus(1)","EP/GP"],
 			"gp":"",
 			"wowID":""
 		},
@@ -98,7 +98,7 @@
 			"wowID":""
 		},
 		"Manastorm Leggings":{
-			"prio":["Thedarkdwarf(2)","EP/GP"],
+			"prio":["Thedarkdwarf(3)","EP/GP"],
 			"gp:":"",
 			"wowID":""
 		},
@@ -217,7 +217,7 @@
 	},
 	"Magmadar":{
 		"Pants of Prophecy":{
-			"prio":["Nattys(2)","EP/GP"],
+			"prio":["Nattys(3)","EP/GP"],
 			"gp:":"",
 			"wowID":""
 		},
@@ -267,7 +267,7 @@
 			"wowID":""
 		},
 		"Strikers Mark":{
-			"prio":["Supertoxic(1)","BenDriller(1)","Dardoc(1)","SilkyJohnsn(2)","LC","EP/GP"],
+			"prio":["Supertoxic(1)","BenDriller(1)","Dardoc(1)","SilkyJohnsn(3)","LC","EP/GP"],
 			"gp:":"",
 			"wowID":""
 		},
@@ -306,7 +306,7 @@
 	},
 	"Garr":{
 		"Circlet of Prophecy":{
-			"prio":["Nattys(2)","EP/GP"],
+			"prio":["Nattys(3)","EP/GP"],
 			"gp:":"",
 			"wowID":""
 		},
@@ -366,7 +366,7 @@
 			"wowID":""
 		},
 		"Bindings of the Windseeker (Right)":{
-			"prio":["Dill(1)","Wizzo(1) or (3)","Redkiller (2)","Chart(1)","LC","LEP/GP"],
+			"prio":["Dill(1)","Wizzo(1) or (2)","Redkiller (3)","Chart(1)","LC","LEP/GP"],
 			"gp:":"",
 			"wowID":""
 		}
@@ -430,7 +430,7 @@
 			"wowID":""
 		},
 		"Bindings of the Windseeker (Left)":{
-			"prio":["Wizzo(1) or (3)","Redkiller(2)","Chart(1)","LC","LEP/GP"],
+			"prio":["Wizzo(1) or (2)","Redkiller(3)","Chart(1)","LC","LEP/GP"],
 			"gp:":"",
 			"wowID":""
 		}
@@ -551,7 +551,7 @@
 			"wowID":""
 		},
 		"Cauterizing Band":{
-			"prio":["Silkybalboa(1)","Terpgodd(1)","Thedarkdwarf(2)","Mh(1)","Rasbeary(1)","Thrane(2)","Iamfaith(2)","Doligrian(1)","EP/GP"],
+			"prio":["Silkybalboa(1)","Terpgodd(1)","Thedarkdwarf(3)","Mh(1)","Rasbeary(1)","Thrane(3)","Iamfaith(3)","Doligrian(1)","EP/GP"],
 			"gp:":"",
 			"wowID":""
 		},
