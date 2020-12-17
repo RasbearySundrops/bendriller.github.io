@@ -41,14 +41,14 @@
 			"wowID":"23668"
 		},
 		"Ring of the Eternal Flame":{
-			"prio":["Mages", "meow", "LC","EP/GP"],
+			"prio":["Mages","meow","LC","EP/GP"],
 			"gp":"1",
 			"wowID":"23237"
 		}
 	},
 	"Boss Shared":{
 		"Dreadnaught 4 pc":{
-			"prio":["Snydi(1)", "tug", "aisli", "Dill", "Mulligen", "Vajeen", "Healslol", "Killstepp(1)", "Frau(2)", "Beeny", "Wizzo", "Chrixus", "Rozzy", "Quigbert(2)"],
+			"prio":["Snydi(1)","tug","aisli","Dill","Mulligen","Vajeen","Healslol","Killstepp(1)","Frau(2)","Beeny","Wizzo","Chrixus","Rozzy","Quigbert(2)"],
 			"gp":"10",
 			"wowID":""
 		},
@@ -83,7 +83,7 @@
 			"wowID":"22356"
 		},
 		"Desecrated Sandals":{
-			"prio":["warlock with T3 chest","Jowsus(1)", "blondi", "Theprestige(1)", "ThedoctorJaz(1)","LC","EP/GP"],
+			"prio":["warlock with T3 chest","Jowsus(1)","blondi","Theprestige(1)","ThedoctorJaz(1)","LC","EP/GP"],
 			"gp":"8",
 			"wowID":"22372"
 		},
@@ -514,7 +514,7 @@
 			"wowID":"22367"
 		},
 		"Leggings of Polarity":{
-			"prio":["Rhaen(1)","Meowingtons(1)","Theprestige(1)","Blacklisted(1)","Warlocks and Mages","EP/GP"],
+			"prio":["Rhaen(1)","Meowingtons(1)", "Theprestige(1)","Blacklisted(1)","Warlocks and Mages","EP/GP"],
 			"gp":"8",
 			"wowID":"23070"
 		},
@@ -648,7 +648,7 @@
 			"wowID":"23053"
 		},
 		"Frostfire Ring":{
-			"prio":["Alter(1)", "meow(1)", "Theprestige(1)","Rahen(1)","EP/GP"],
+			"prio":["Alter(1)","meow(1)","Theprestige(1)","Rahen(1)","EP/GP"],
 			"gp":"6",
 			"wowID":"23062"
 		},
@@ -673,7 +673,7 @@
 			"wowID":"22812"
 		},
 		"Doomfinger":{
-			"prio":["Meow(1)", "Theprestige(1)", "Alters(1)","James Bond","Mage?","EP/GP"],
+			"prio":["Meow(1)","Theprestige(1)","Alters(1)","James Bond","Mage?","EP/GP"],
 			"gp":"8",
 			"wowID":"22821"
 		},
