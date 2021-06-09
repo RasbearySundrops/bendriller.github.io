@@ -49,7 +49,7 @@
 	"Attumen the Huntsman":{
 		"Bracers of the White Stag":{
 			"prio":["EP/GP"],
-			"gp":"3",
+			"gp":"33",
 			"wowID":"28453"
 		},
 		"Gauntlets of Renewed Hope":{
@@ -247,6 +247,11 @@
 			"prio":["EP/GP"],
 			"gp":"6",
 			"wowID":"28593"
+		},
+		"Libram of Souls Redeemed":{
+			"prio":["EP/GP"],
+			"gp":"3",
+			"wowID":"28592"
 		},
 		"Ribbon of Sacrifice":{
 			"prio":["EP/GP"],
